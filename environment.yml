@@ -1,6 +1,4 @@
 name: carpentries
-channels:
-  - conda-forge
 dependencies:
   - ipykernel
   - jupyter
